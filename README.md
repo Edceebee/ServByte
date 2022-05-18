@@ -6,5 +6,6 @@
 Tools used to build Application are:
 - Springboot 
 - Java 8
+- H2 database
 
 
